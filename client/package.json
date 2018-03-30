@@ -3,5 +3,8 @@
   "version": "0.0.1",
   "main": "index.js",
   "author": "Peter Stegnar",
-  "license": "GPL"
+  "license": "GPL",
+  "dependencies": {
+    "vue": "^2.5.13"
+  }
 }
